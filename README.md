@@ -1,6 +1,7 @@
 # english
 about language english
 
+<div display="flex">
 #### Conditional Operators
 | character | procunciation |
 | --- | --- |
@@ -42,3 +43,4 @@ about language english
 | --- | --- |
 | Y | uai |
 | Z | zii |
+<div/>
