@@ -1,7 +1,8 @@
 # english
 about language english
 
-<div display="flex">
+<div align="center">
+
 #### Conditional Operators
 | character | procunciation |
 | --- | --- |
